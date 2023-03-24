@@ -7,11 +7,11 @@
 💌 If you want talk with me, you can send me a message!
 
 <p align="left">
-  <a href="https://www.instagram.com/rianfonseca_/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/rianfonseca_/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/rianfonseca_/"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/rian-fonseca-428297248/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/rian-fonseca-428297248/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/rian-fonseca-428297248/"/>
   </a>
 </p>
