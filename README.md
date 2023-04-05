@@ -1,6 +1,6 @@
 <img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
 
-🌎 Hi There! My name is Rian Fonseca and I'm studying DotNet
+🌎 Hi There! My name is Rian Fonseca and I'm studying DotNet Back End
 
 📚 looking for opportunities to start in the area of programming
 
