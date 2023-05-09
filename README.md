@@ -19,14 +19,10 @@
 ### Work experience
 Below, you will see my job experience:
 
-<img align="left" height="100px" width="100px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://wordpress-direta.s3.sa-east-1.amazonaws.com/wp-content/uploads/sites/72/2018/04/30104706/LOGO7-254x300.png">
+<img align="left" height="100px" width="100px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4">
 
-[**SINDAERGS**](https://sindaergs.com.br) \
-Estágiario • out de 2022 - o momento · 6 meses \
-Services: `Estágiaro administrativo`
-<br/>
-<br/>
-<br/>
+[**VORTIGO**](https://vortigo.digital) \
+Estágiario 
 
 ### 🦄 Skills
 <div style="width:5px; height:10px">
