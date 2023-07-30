@@ -28,6 +28,7 @@ Estágiario
 <div style="width:5px; height:10px">
   <img height="22" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img height="22" alt=".NET" src="https://img.shields.io/badge/.NET-D70A53?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img height="22" alt="ASP.NET" src="https://img.shields.io/badge/asp.net-%2300599C.svg?style=for-the-badge&backend=c&logoColor=white"/>
   <img height="22" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img height="22" alt="Java" src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black"/>
   <img height="22" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
