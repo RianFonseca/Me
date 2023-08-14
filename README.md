@@ -19,10 +19,8 @@
 ### Work experience
 Below, you will see my job experience:
 
-<img align="left" height="100px" width="100px" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://avatars.githubusercontent.com/u/99232245?s=200&v=4">
 
-[**VORTIGO**](https://vortigo.digital) \
-Estágiario 
+
 
 ### 🦄 Skills
 <div style="width:5px; height:10px">
