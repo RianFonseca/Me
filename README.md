@@ -24,6 +24,8 @@ Below, you will see my job experience:
 
 ### 🦄 Skills
 <div style="width:5px; height:10px">
+  <img height="22" alt="Node" src="https://img.shields.io/badge/Node-%23239120.svg?style=for-the-badge&logo=node&logoColor=white"/>
+  <img height="22" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img height="22" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img height="22" alt=".NET" src="https://img.shields.io/badge/.NET-D70A53?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img height="22" alt="ASP.NET" src="https://img.shields.io/badge/asp.net-%2300599C.svg?style=for-the-badge&backend=c&logoColor=white"/>
