@@ -2,7 +2,7 @@
 
 🌎 Hi There! My name is Rian Fonseca and I'm Back End developer 
 
-📚 looking for opportunities to start in the area of programming
+📚 I've been a Backend developer for a little over a year
 
 💌 If you want talk with me, you can send me a message!
 
