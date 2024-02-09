@@ -16,8 +16,6 @@
   </a>
 </p>
 
-### Work experience
-Below, you will see my job experience:
 
 
 
