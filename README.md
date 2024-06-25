@@ -1,8 +1,9 @@
-<img alt="image" align="right" src="https://user-images.githubusercontent.com/104664138/226382413-6d33b624-9083-43d9-8d14-9a215492c83d.png"/>
 
-🌎 Hi There! My name is Rian Fonseca and I'm Back End developer 
+## 👋🏻 Hi There! My name is Rian Fonseca
 
-📚 I've been a Backend developer for a little over a year
+🌎 I'm developer working in Lefisc
+
+📚 I am a systems analysis and development student at Unisinos
 
 💌 If you want talk with me, you can send me a message!
 
