@@ -1,7 +1,7 @@
 
 ## 👋🏻 Hi There! My name is Rian Fonseca
 
-🌎 I'm developer working in Lefisc
+🌎 I'm developer working in Fabesul
 
 📚 I am a systems analysis and development student at Unisinos
 
