@@ -48,8 +48,3 @@ Here are some of the technologies I'm working with:
 - Always eager to **learn** new programming languages and frameworks.  
 - Love to collaborate on exciting projects!
 
----
-
-## 📈 GitHub Stats
-![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rianfonseca&show_icons=true&count_private=true&theme=radical)
-
