@@ -1,1 +1,49 @@
-https://vscode.dev/redirect?code=95b96d863f9dfc162c8c&state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253De9d298be53974cb4%2526windowId%253D1
+04/06/2025 09:03:13 - Microsoft VSIX Installer
+04/06/2025 09:03:13 - -------------------------------------------
+04/06/2025 09:03:13 - vsixinstaller.exe version:
+04/06/2025 09:03:13 - 17.10.2179+08f3ed4b45
+04/06/2025 09:03:13 - -------------------------------------------
+04/06/2025 09:03:13 - Command line parameters:
+04/06/2025 09:03:13 - C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,C:\Users\T10453\Downloads\GitHub_Themes_v1.0.7.vsix
+04/06/2025 09:03:13 - -------------------------------------------
+04/06/2025 09:03:13 - Microsoft VSIX Installer
+04/06/2025 09:03:13 - -------------------------------------------
+04/06/2025 09:03:14 - Initializing Install...
+04/06/2025 09:03:14 - Pesquisando produtos aplicáveis...
+04/06/2025 09:03:14 - Produto instalado encontrado - Visual Studio 2017 Desktop Express
+04/06/2025 09:03:14 - Produto instalado encontrado - Local Global
+04/06/2025 09:03:14 - Detalhes da Extensão...
+04/06/2025 09:03:14 - 	Identifier         : GitHubDarkTheme.869f0b49-f48e-4ba7-94dd-91368e3c8810
+04/06/2025 09:03:14 - 	Name               : GitHub Themes
+04/06/2025 09:03:14 - 	Author             : Mads Kristensen
+04/06/2025 09:03:14 - 	Version            : 1.0.7
+04/06/2025 09:03:14 - 	Description        : Port of the popular dark and light GitHub themes for Visual Studio Code. 
+04/06/2025 09:03:14 - 	Locale             : en-US
+04/06/2025 09:03:14 - 	MoreInfoURL        : https://github.com/madskristensen/GitHubThemes
+04/06/2025 09:03:14 - 	InstalledByMSI     : False
+04/06/2025 09:03:14 - 	SupportedFrameworkVersionRange : [0.0,2147483647.2147483647]
+04/06/2025 09:03:14 - 	SignatureState     : Unsigned
+04/06/2025 09:03:14 - 	Produtos com Suporte : 
+04/06/2025 09:03:14 - 		Microsoft.VisualStudio.Community
+04/06/2025 09:03:14 - 			Version : [17.0,18.0)
+04/06/2025 09:03:14 - 			ProductArchitecture : amd64
+04/06/2025 09:03:14 - 		Microsoft.VisualStudio.Community
+04/06/2025 09:03:14 - 			Version : [17.0,18.0)
+04/06/2025 09:03:14 - 			ProductArchitecture : arm64
+04/06/2025 09:03:14 - 	Referências        : 
+04/06/2025 09:03:14 - 	Pré-requisitos     : 
+04/06/2025 09:03:14 - 		-------------------------------------------------------
+04/06/2025 09:03:14 - 		Identifier   : Microsoft.VisualStudio.Component.CoreEditor
+04/06/2025 09:03:14 - 		Name         : Visual Studio core editor
+04/06/2025 09:03:14 - 		Version      : [17.0,)
+04/06/2025 09:03:14 - Detalhes da Assinatura…
+04/06/2025 09:03:14 - 	Extension is not signed.
+04/06/2025 09:03:14 - VSIXInstaller.NoApplicableSKUsException: Esta extensão não é instalável em nenhum dos produtos atualmente instalados.
+   em VSIXInstaller.ExtensionService.GetInstallableDataImpl(String vsixPath, String extensionPackParentName, Boolean isRepairSupported, IStateData stateData, IEnumerable`1& skuData)
+   em VSIXInstaller.ExtensionService.GetInstallableData(String vsixPath, String extensionPackParentName, Boolean isRepairSupported, IStateData stateData, IEnumerable`1& skuData)
+   em VSIXInstaller.ExtensionPackService.IsExtensionPack(IStateData stateData, Boolean isRepairSupported)
+   em VSIXInstaller.ExtensionPackService.ExpandExtensionPackToInstall(IStateData stateData, Boolean isRepairSupported)
+   em VSIXInstaller.App.Initialize(Boolean isRepairSupported)
+   em VSIXInstaller.App.Initialize()
+   em System.Threading.Tasks.Task`1.InnerInvoke()
+   em System.Threading.Tasks.Task.Execute()
