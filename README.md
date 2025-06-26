@@ -1,50 +1,44 @@
-## 👋🏻 Hi There! I'm Rian Fonseca
+# 💻 Hello World! I'm Rian Fonseca
 
-🌎 **Developer at Nexus**  
-📚 **Systems Analysis and Development** student at **Unisinos**  
-💌 **Let's connect!** Feel free to send me a message.
-
----
-
-## 📱 Contact Me
-<p align="left">
-  <a href="https://www.instagram.com/rianfonseca_/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=%23E4405F"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rian-fonseca-428297248/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-%231C1C1C?style=for-the-badge&logo=linkedin&logoColor=%230A66C2"/>
-  </a>
-</p>
+🚀 **Backend Developer** | ☁️ **AWS Specialist** | 🏗️ **.NET Expert**  
+🏢 Software Engineer @ **Nexus** | 🎓 CS Graduate  
+✨ Building scalable cloud solutions with Java, .NET & Node.js  
 
 ---
 
-## 🦄 Technologies & Skills
+## 🛠️ Tech Stack
 
-Here are some of the technologies I'm working with:
+### 🔧 Core Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img height="30" alt="Nest.js" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img height="30" alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img height="30" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img height="30" alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img height="30" alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img height="30" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%2300599C.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img height="30" alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img height="30" alt="Java" src="https://img.shields.io/badge/Java-%23E51F24.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img height="30" alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌱 Currently Learning
-- **Advanced Backend Techniques**  
-- **Cloud Technologies** (AWS, Azure)  
-- **DevOps Practices** (CI/CD, Docker)
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## 🚀 Fun Facts
-- I'm passionate about **open-source** development.  
-- Always eager to **learn** new programming languages and frameworks.  
-- Love to collaborate on exciting projects!
+## 🏆 Professional Highlights
 
+- ✔️ 3+ years building enterprise backend systems
+- ✔️ AWS Certified Solutions Architect
+- ✔️ Full-stack .NET/Java specialist
+- ✔️ Microservices & cloud architecture expert
+- ✔️ Mentor for junior developers
+- ✔️ Active open-source contributor
+
+---
+
+## 📫 Let's Collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rian-fonseca-428297248/
