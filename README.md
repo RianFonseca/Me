@@ -41,4 +41,4 @@
 
 ## 📫 Let's Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rian-fonseca-428297248/
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rian-fonseca-428297248/)
